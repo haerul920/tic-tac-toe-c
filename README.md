@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/haerul-gifari/tic-tac-toe-c">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=550&lines=🌿+Tic-Tac-Toe+Klasik+🌿;🎮+Game+Terminal+dengan+C+🎮" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=550&lines=🌿+Tic-Tac-Toe+Klasik+🌿;Game+Terminal+dengan+C" alt="Typing SVG" />
   </a>
 </div>
 
